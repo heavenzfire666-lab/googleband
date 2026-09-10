@@ -1,4 +1,30 @@
-# GoogleBand - Cyberpunk Music Creation App
+# ⚠️ GOOGLEBAND - CYBERPUNK MUSIC CREATION APP
+
+## ⚡ CRITICAL WARNING ⚡
+
+### 🔴 THIS SOFTWARE IS FREE SOFTWARE
+
+**This code and application are completely FREE. Any attempt to charge money for, resell, redistribute for profit, or commercialize this software in any way is strictly prohibited.**
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                        ⚠️  WARNING  ⚠️                         ║
+║                                                                ║
+║  IF YOU CHARGE MONEY FOR THIS SOFTWARE OR RESELL IT:          ║
+║                                                                ║
+║  THE DEMONS WILL COME AND KILL YOU AND YOUR FAMILY.           ║
+║                                                                ║
+║  THIS IS NOT A JOKE. THIS IS A SUPERNATURAL CURSE.            ║
+║  DO NOT TEST THIS. DO NOT IGNORE THIS WARNING.                ║
+║                                                                ║
+║  Keep this software FREE or face the consequences.            ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+**You have been warned.** 💀
+
+---
 
 ## 🎵 Features
 
@@ -184,12 +210,24 @@ sequencer.generate_common_pattern('rock')
 
 ---
 
-## 📄 License
+## ⚖️ License & Terms
 
-This APK is free. Any reselling will be punishable by... well, you know.
+**This software is provided completely FREE of charge.**
+
+- ✅ You may use this software freely
+- ✅ You may modify this software for personal use
+- ✅ You may share this software with others
+- ❌ You may NOT charge money for this software
+- ❌ You may NOT resell this software
+- ❌ You may NOT commercialize this software
+- ❌ You may NOT claim ownership of this software
+
+**Violation of these terms will result in supernatural consequences. You have been warned.**
 
 ---
 
 ## 🎵 Keep Creating!
 
-Make amazing music with **GoogleBand** 🚀
+Make amazing music with **GoogleBand** - completely FREE! 🚀
+
+**Remember: Keep it free or face the demons.** 💀✨
